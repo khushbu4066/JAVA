@@ -1,12 +1,13 @@
 /*  Typcasting in java is the process of converting one primitive data type into another.
 It can be done automatically and explicitly.
---> When we assign tje value of one data type to another data type, then there is a chance that two data type might not be compatible with each other. 
+--> When we assign the value of one data type to another data type, then there is a chance that two data type might not be compatible with each other. 
 The java compiler will automaticaly perform the conversion if the data are consistent. 
 
 ---> Two type of Typecasting in java
+
 1. Widening / Automatic type conversion :- Java compiler automatically perform the conversion
 
-when assign value of a smaller data type to large data types and if they compatible
+When assign value of a smaller data type to large data types and if they compatible
 byte -> short -> int -> long -> float -> double
 
 
